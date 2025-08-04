@@ -1,4 +1,4 @@
-package dto;
+package com.example.Mobile_phone_ecommerce_backend.dto;
 
 import lombok.Getter;
 import lombok.Setter;
